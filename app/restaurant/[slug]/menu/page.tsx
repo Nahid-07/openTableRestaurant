@@ -1,5 +1,4 @@
 import Header from "@/app/component/Header";
-import NavBar from "@/app/component/NavBar";
 import Link from "next/link";
 const RestaurantMenuPage = () => {
   return (
